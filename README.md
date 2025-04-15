@@ -45,6 +45,11 @@
 ```bash
 pip install -r requirements.txt
 python main.py
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+pillow>=8.3.0
+openpyxl>=3.0.0
 ```
 
 ---
